@@ -1,8 +1,8 @@
-# Pinata
+# Pinata-Web3 (Deprecated)
 
-![cover-image](https://docs.mypinata.cloud/ipfs/Qmbg1KajsrdLoBwZ8aoSMDMHrWd9EGJkun24UVXJVWYqVx?img-format=webp)
+> [!WARNING]
+> This SDK is no longer being maintained, as it has been replaced by a new SDK which can support both Public and Private IPFS: [https://github.com/PinataCloud/pinata](https://github.com/PinataCloud/pinata)
 
-The new all-in-one Pinata SDK
 
 ## Quickstart
 
